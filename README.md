@@ -1,6 +1,6 @@
 # Portofolio-QA
 
-Website yang digunakan untuk melakukan pengetesa
+Website yang digunakan untuk melakukan pengetesan
 
 https://secondhand.binaracademy.org/
 
